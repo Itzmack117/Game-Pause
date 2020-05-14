@@ -1,0 +1,25 @@
+*{
+    outline: 1px solid red;
+}
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
+.card-color{
+background-color: silver;
+}
+
+.fl-col{
+    flex-direction: column;
+}
+
+.sb{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-cap{
+    max-height: 520px !important;
+}
